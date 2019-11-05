@@ -1,0 +1,13 @@
+.someStyle {
+    background-color: blueviolet;
+    height: 250px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    height: 30px;
+    width: 150px;
+}
